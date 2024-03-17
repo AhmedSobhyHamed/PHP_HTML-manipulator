@@ -81,10 +81,10 @@ first create the pattern in HTML file like:
  ```
  ### errors.
  This library uses a try-catch block architecture and throws exceptions that include messages:
- <span style="green">FNF</span> 
+ <code style="green">FNF</code> 
  That happens when the file you pass does not exist or when you forget to pass it at all.<br>
- <span style="green">NFO</span>
+ <code style="green">NFO</code>
  That happens when the file is accessed or used at that moment in a way that locks any other reading attempts.
  ### last word.
- conntact me on [LinkedIn](https://www.linkedin.com/in/ahmed-sobhy-b824b7201)
- or [email](mail:ahmed.s.hamed@gmail.com)
+ conntact me on [LinkedIn](https://www.linkedin.com/in/ahmed-sobhy-b824b7201) <br>
+ or [email](ahmed.s.hamed@gmail.com)
