@@ -80,7 +80,7 @@ first create the pattern in HTML file like:
  ! warning: this function will return false is there is no file opened.
  ```
  ### errors.
- This library uses a try-catch block architecture and throws exceptions that include messages:
+ This library uses a try-catch block architecture and throws exceptions that include messages:<br>
  <code style="green">FNF</code> 
  That happens when the file you pass does not exist or when you forget to pass it at all.<br>
  <code style="green">NFO</code>
