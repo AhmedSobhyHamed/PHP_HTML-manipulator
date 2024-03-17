@@ -40,7 +40,7 @@ Then call the file that contains HTML with pattern tags that need to be replaced
  <p><#{{   title}}#></p>
  <p>text no need to be replaced.</p>
  ```
- and feel free to use whitespaces.
+ and feel free to use whitespaces.<br>
  then in php file use:
  ```php
  $page->add_data('title','hello');
@@ -60,7 +60,7 @@ first create the pattern in HTML file like:
  </ul>
  <p>text no need to be replaced.</p>
  ```
- and feel free to use whitespaces.
+ and feel free to use whitespaces.<br>
  then in php file use:
  ```php
  $page->add_data('items',[
