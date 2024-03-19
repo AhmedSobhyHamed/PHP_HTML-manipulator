@@ -1,5 +1,6 @@
 <?php
 // this a handler version 2
+// created by A.S.H
 class HTML_TEMPLATE {
     protected $keyStart;
     protected $keyEnd;
