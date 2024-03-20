@@ -1,4 +1,4 @@
-# html_reader
+# html_manipulator
 Read HTML with a variable pattern to create a dynamic website using the PHP scripting language.
  ### what is this.
 This library is used to place your fetched data directly into an HTML page, making it easy to create dynamic web pages and change the content of any HTML page before rendering it.
