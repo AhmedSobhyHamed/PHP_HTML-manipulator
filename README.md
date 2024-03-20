@@ -65,7 +65,7 @@ first create the pattern in HTML file like:
  ```php
  $page->add_data('items',[
     ['key1'=>'val','key2'=>'val',...],
-    ['name'=>'val','id'=>'val',...],
+    ['key1'=>'val','key2'=>'val',...],
     ...
     ]);
  ```
