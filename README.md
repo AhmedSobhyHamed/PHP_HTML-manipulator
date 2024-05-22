@@ -33,10 +33,12 @@ Anyone who creates small and medium projects and wants a tool to easily edit HTM
 ## Features
 
 ```diff
-    Suitable for small/medium projects.
-    Used without any framwork.
-    Used with vanilla PHP.
-    Easy to use.
+- Suitable for small/medium projects.
+- Used without any framwork.
+- Used with vanilla PHP.
+- Easy to use.
+- Easy change content of html template with php.
+- Set custom delimiter you want to replace.
 ```
 
   <!-- get start and how to run with the prerequisites mintion -->
